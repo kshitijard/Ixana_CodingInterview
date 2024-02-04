@@ -44,3 +44,20 @@ Note: The assumption is made regarding CTRL line acting as an output pin for ext
    - I have added some delay, and after that, changed the DONE pin state to high, and SUCCESS pin to 1 to indicate configuration completion without errors.
 
 Note: The assumption is made regarding CTRL line acting as an output pin for external control due to the lack of information provided for external control.
+
+## Time Estimation:
+The main challenge in this task was understanding the provided information. Due to the limited data, it took a significant amount of time to grasp the big picture and formulate a clear idea of the requirements. The breakdown of time spent on different stages is as follows:
+
+1.Understanding Requirements: 3 hours.
+- Understanding the given information and forming a comprehensive understanding of the task.
+
+2.Designing Solution: 1 hour.
+- Creating a high-level design for implementing Modes 0, 1, and 2 based on the understood requirements.
+
+3.Development: 2 hours.
+- Writing and testing the code for the designed solution.
+
+4.Code Beautification and Documentation: 1 hour.
+- Improving code readability and adding documentation for better understanding.
+
+Total Time Spent: 7 hours
